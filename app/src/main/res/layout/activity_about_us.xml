@@ -9,10 +9,18 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="La Aplicacion trata sobre REportes">
+            android:layout_height="wrap_content"
+            android:text="Acerca de ..."
+            android:gravity="center">
+        </TextView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Esta aplicacion es para reportes de ventas">
 
         </TextView>
     </LinearLayout>
