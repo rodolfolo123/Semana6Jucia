@@ -22,7 +22,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Esta aplicacion es para reportes de ventas">
+            android:text="Esta  es para reportes de ventas">
 
         </TextView>
 
