@@ -26,7 +26,7 @@ public class User {
         ArrayList<User> list = new ArrayList<User>();
         User o = new User();
         o.usuario = "elmer";
-        o.contrasenia = "123456";
+        o.contrasenia = "12345";
         list.add(o);
 
         User t = new User();
